@@ -39,7 +39,7 @@ To add a reference to a YAML, JSON, SVG, PNG, or JPG file located in the `assets
 
 ## Links between documents in different topics
 
-If you want to link to a document in the different topic, create a reference by using this pattern `/{type-of-topic}/{id}#{type-of-document}-{title}-{header}`, where:
+If you want to link to a document in a different topic, create a reference by using this pattern `/{type-of-topic}/{id}#{type-of-document}-{title}-{header}`, where:
 - `{type-of-topic}` is a type of the topic that you want to reference.
 - `{id}` is an ID of the topic that you want to reference.
 - `{type-of-document}` is a type of the document that you want to reference.
